@@ -65,6 +65,7 @@ As the Linear Models before, we use R^2 metric to evaluate the model’s perform
 When the Month attribute is added, performance drops for both tests.
 
 Results:
+
 <img src="readmeImages/resultsAccuracy.png?raw=true"/>
 
 After this analysis, attribute Month is not going to be used.
