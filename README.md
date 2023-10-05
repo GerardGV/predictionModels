@@ -8,4 +8,4 @@ Two types of models are tested: Linear Regression model from sklearn library of 
 Dataset is separated on data to train, test and predict. Besides, character “.” is understood as thousands.
 Five values of NaN have been found apart from those that are going to be predicted.
 
-<img width="328" alt="image" src="[https://github.com/GerardGV/predictionModels/assets/73480316/a30e7268-7147-4599-8cab-d5fa13444da0](https://github.com/GerardGV/predictionModels/blob/main/readmeImages/nan.png)https://github.com/GerardGV/predictionModels/blob/main/readmeImages/nan.png">
+<img src="readmeImages/nan.png?raw=true"/>
